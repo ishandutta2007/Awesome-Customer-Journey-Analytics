@@ -1,6 +1,6 @@
 # Awesome-Customer-Journey-Analytics
 
-## Top Customer Journey Analytics Tools Ecosystem
+### Top Customer Journey Analytics Tools Ecosystem
 
 **Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**
 *Focused on Customer Journey Analytics, Product Analytics, Digital Experience Analytics, Session Replay & Behavioral Analytics*
