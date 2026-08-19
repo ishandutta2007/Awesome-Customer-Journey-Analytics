@@ -30,98 +30,36 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **[Contentsquare](https://contentsquare.com/)**
-  Digital experience analytics platform providing journey analysis, session replay, heatmaps, funnels, experience analytics, mobile analytics, and experience monitoring. Contentsquare's Journey Analysis visualizes how visitors progress through websites and identifies paths and anomalies in customer journeys.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Contentsquare](https://contentsquare.com/)** | Digital experience analytics platform providing journey analysis, session replay, heatmaps, funnels, mobile analytics, and experience monitoring. | Paid Growth plan starts at $39/month (billed annually) | Free forever plan includes up to 200,000 monthly sessions, session replays, heatmaps, funnels, and basic surveys (plus 15-day free trial of Growth plan) |
+| **[Quantum Metric](https://www.quantummetric.com/)** | Enterprise digital analytics platform combining behavioral, product, and journey analytics with friction detection, session replay, and call-center data integration. | Enterprise contracts start at ~$40,000/year (Salesforce AppExchange add-on starts at $75,000/org/year) | No free tier; customized live product demos available upon request |
+| **[Glassbox](https://www.glassbox.com/)** | Digital experience intelligence platform capturing web and mobile customer journeys, session replay, friction detection, and behavioral insights. | Enterprise contracts start at ~$10,000–$50,000/year | No free tier; personalized product consultations and interactive demos available upon request |
+| **[Adobe Customer Journey Analytics](https://business.adobe.com/products/analytics/customer-journey-analytics.html)** | Enterprise omnichannel customer journey analytics built on Adobe Experience Platform (AEP) for cross-channel customer profile and interaction analysis. | Enterprise contracts start at ~$50,000–$100,000+/year (priced by data ingestion volume and AEP compute) | No free tier or self-serve trial; enterprise proof-of-concept and guided demos available via sales |
+| **[Amplitude](https://amplitude.com/)** | Product and digital analytics platform providing behavioral analytics, funnels, journey paths, retention, cohorts, session replay, and experimentation. | Starter plan is $0/month; Plus plan starts at $0/month (scales with event volume above 2M events/mo) | Free forever plan includes up to 2,000,000 events/month, unlimited seats, session replay, core analytics, AI agents, and unlimited feature flags |
+| **[Mixpanel](https://mixpanel.com/)** | Event-based product analytics platform for user flows, funnel analysis, cohort segmentation, retention, and product experimentation. | Free plan is $0/month; paid Growth plan starts at $0/month (first 1M events free, then scales with usage) | Free forever plan includes up to 1,000,000 events/month, 10,000 session replays/month, core analytics (insights, funnels, retention, flows), and 5 saved reports per seat |
+| **[Pendo](https://www.pendo.io/)** | Product experience platform combining product analytics, user behavior analysis, in-app guides, onboarding, and NPS feedback. | Pendo Free is $0/month; paid Base plans start at ~$7,000/year (~$583/month) | Free forever plan includes up to 500 Monthly Active Users (MAUs), core analytics, and in-app guides; 30-day free trial available for full platform features |
+| **[Heap](https://www.heap.io/)** | Digital insights and behavioral analytics platform featuring automatic event capture, journey mapping, funnels, and friction detection. | Free plan is $0/month; paid Growth plans start at ~$3,600/year (~$300/month) | Free forever plan includes up to 10,000 monthly sessions, charts, funnels, journey reports, and 6 months data history; 14-day free trial of paid tiers (no credit card required) |
+| **[FullStory](https://www.fullstory.com/)** | Digital experience intelligence platform combining session replay, product analytics, journey mapping, and behavioral diagnostics. | FullstoryFree is $0/month; paid Business plans start at ~$299–$899/month (custom quote based on volume) | Free forever plan (FullstoryFree) includes up to 30,000 sessions/month, 10 user seats, 12 months data retention, and core session replay/analytics; 14-day free trial of paid plans |
+| **[Indicative](https://www.indicative.com/)** | Customer journey analytics platform for multi-path journey mapping, funnel analysis, cohort tracking, and behavioral segmentation (acquired by mParticle). | Free plan is $0/month; paid Standard plans start at $249/month | Free forever plan includes up to 25,000,000 events/month, 3 users, 3 integrations, and 6 months data history; 14-day free trial of paid features |
+| **[Google Analytics](https://marketingplatform.google.com/about/analytics/)** | Web and mobile app analytics platform providing acquisition, behavioral analysis, conversion tracking, audience journeys, and BigQuery export. | Free ($0/month standard version) | Free forever with standard limits (up to 14 months user data retention, standard reporting quotas; official demo account with live data available) |
+| **[Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/)** | Enterprise edition of Google Analytics providing higher event volume limits, unsampled reporting, advanced BigQuery export, SLAs, and enterprise support. | Starts at ~$50,000/year (covers up to 25 million monthly events) | No free tier; demo and sandbox environments available via Google Marketing Platform Sales Partners |
+| **[Microsoft Clarity](https://clarity.microsoft.com/)** | Free behavioral analytics and session recording platform providing heatmaps, session replays, frustration signals (rage/dead clicks), and AI insights. | $0 (100% free forever, no paid tiers) | 100% free forever with unlimited sessions/traffic, unlimited websites, unlimited team seats, and 90-day recording retention |
+| **[Hotjar](https://www.hotjar.com/)** | Product and experience analytics tool providing heatmaps, session recordings, conversion funnels, feedback widgets, and user interviews. | Free Basic is $0/month; paid Observe plans start at $39/month (billed annually) | Free forever Basic plan includes up to 35 daily sessions (1,050 sessions/month) and unlimited heatmaps; 15-day free trial of paid Business plans |
+| **[Smartlook](https://www.smartlook.com/)** | Digital experience and session replay platform for web and mobile apps with funnels, heatmaps, event tracking, and anomaly detection (Cisco). | Free plan is $0/month; paid Pro plans start at $55/month | Free forever plan includes up to 3,000 monthly sessions and 1-month data retention; 30-day free trial of paid plans |
+| **[Decibel](https://www.decibel.com/)** | Digital experience analytics technology scoring digital experiences (DXS), detecting friction, and providing session replays and journey heatmaps (Medallia). | Enterprise contracts start at ~$20,000/year (priced by Experience Data Records / EDR) | No free tier; personalized live product demo available upon request |
+| **[Mouseflow](https://mouseflow.com/)** | Behavior analytics platform offering session replay, dynamic heatmaps, conversion funnels, form analytics, user feedback, and friction detection. | Free plan is $0/month; paid Essential plan starts at €25/month (~$27/month, billed annually) | Free forever plan includes up to 500 recordings/month for 1 website and 1 month storage; 14-day free trial of paid plans (no credit card required) |
+| **[Lucky Orange](https://www.luckyorange.com/)** | Conversion rate and behavioral analytics suite featuring session recordings, heatmaps, conversion funnels, form analytics, and live chat. | Free plan is $0/month; paid Build plan starts at $32/month (billed annually) | Free forever plan includes up to 100 sessions/month for 1 site (30-day storage); 7-day free trial with full access to all features |
+| **[Crazy Egg](https://www.crazyegg.com/)** | Website optimization and behavior analysis tool featuring heatmaps, scroll maps, session recordings, A/B testing, and traffic analysis. | Paid plans start at $29/month (billed annually); Instant Heatmaps feature is $0/month | 30-day free trial for all paid subscription plans; Instant Heatmaps tool is free forever with no credit card required |
+| **[Woopra](https://www.woopra.com/)** | Customer journey analytics platform offering real-time user profiles, journey visualization, retention analysis, and automated triggers. | Core plan is $0/month; paid Pro plan starts at $999/month | Free forever Core plan includes up to 500,000 actions/month, 90-day data retention, and 30+ integrations; 14-day free trial of Pro plan |
+| **[Kissmetrics](https://www.kissmetrics.io/)** | Person-based product and customer journey analytics platform focused on cohort analysis, funnels, user retention, and revenue attribution. | Free workspace is $0/month; paid plans start at $99/month | Free forever workspace includes up to 100,000 events/month, 3 seats, tracking, attribution, and 1 dashboard (no credit card required) |
+| **[Countly](https://countly.com/)** | Product analytics and user engagement platform tracking customer journeys across web, mobile, desktop, and IoT devices. | Countly Flex Cloud starts at $175/month; self-hosted Lite edition is $0 (open source) | 14-day free trial for Countly Flex Cloud; self-hosted Countly Lite is free forever (community edition) |
+| **[Plausible Analytics](https://plausible.io/)** | Lightweight, open-source, privacy-first web analytics platform providing essential traffic and goal conversion metrics without personal data tracking. | Hosted cloud starts at $9/month (up to 10,000 monthly pageviews); self-hosted is $0 (open source) | 30-day free trial with full features (no credit card required); self-hosted Community Edition is free forever |
+| **[Matomo](https://matomo.org/)** | Privacy-centric web and digital analytics platform offering heatmaps, session recordings, funnels, goals, and custom reports. | Matomo Cloud starts at $23/month (up to 50,000 monthly hits); Matomo On-Premise is $0 (open source) | 21-day free trial for Matomo Cloud (no credit card required); self-hosted On-Premise version is free forever with no data limits |
+| **[Snowplow](https://snowplow.io/)** | Behavioral data platform generating granular event streams for customer journey and product analytics. | Snowplow BDP Cloud starts at ~$1,500/month (managed pipeline); open-source edition is $0 | 14-day free trial of Snowplow BDP Cloud (full pipeline functionality, no credit card required); open-source pipeline is free forever self-hosted |
+| **[mParticle](https://www.mparticle.com/)** | Customer Data Platform (CDP) providing data infrastructure, identity resolution, audience segmentation, and journey data activation. | Enterprise contracts start at ~$2,000–$5,000/month (~$25,000–$60,000/year based on mParticle Credits) | No permanent free tier; guided product demo and proof-of-concept trial available upon request |
+| **[Segment](https://segment.com/)** | Customer data platform (CDP) for collecting, cleaning, and routing behavioral event streams to analytics, warehouse, and journey activation tools. | Free plan is $0/month; paid Team plan starts at $120/month (includes 10,000 MTUs) | Free forever plan includes up to 1,000 Monthly Tracked Users (MTUs), 2 sources, 700+ integrations, and 1 warehouse destination; 14-day free trial for Team plan |
 
-* **[Quantum Metric](https://www.quantummetric.com/)**
-  Digital analytics platform combining product analytics, experience analytics, journey analytics, session replay, heatmaps, friction detection, monitoring, and behavioral insights. Its journey analytics connects journey visualizations with contextual session data and can incorporate offline data such as call-center information.
-
-* **[Glassbox](https://www.glassbox.com/)**
-  Digital experience intelligence platform focused on digital customer journeys, session replay, experience analytics, friction detection, and behavioral insights across web and mobile experiences.
-
-* **[Adobe Customer Journey Analytics](https://business.adobe.com/products/analytics/customer-journey-analytics.html)**
-  Enterprise customer journey analytics platform within Adobe Experience Platform for analyzing customer interactions across multiple channels and connecting behavioral data to broader customer profiles.
-
-* **[Amplitude](https://amplitude.com/)**
-  Product and digital analytics platform providing behavioral analytics, funnels, journeys, retention, cohorts, experimentation, session replay, and other tools for understanding customer and product behavior.
-
-* **[Mixpanel](https://mixpanel.com/)**
-  Product analytics platform centered on event-based behavioral analysis, funnels, retention, segmentation, user flows, cohorts, and product experimentation.
-
-* **[Pendo](https://www.pendo.io/)**
-  Product experience platform combining product analytics, user behavior analysis, feedback, guides, in-app engagement, and product adoption analytics.
-
-* **[Heap](https://www.heap.io/)**
-  Digital insights platform known for automatic data capture and behavioral analytics, enabling teams to analyze funnels, journeys, user behavior, and friction without extensive manual instrumentation.
-
-* **[FullStory](https://www.fullstory.com/)**
-  Digital experience analytics platform combining session replay, product analytics, behavioral insights, and experience intelligence to understand customer interactions and friction.
-
-* **[Indicative](https://www.indicative.com/)**
-  Customer journey analytics platform focused on journey mapping, funnels, cohorts, retention, segmentation, and behavioral analysis across customer touchpoints.
-
-* **[Google Analytics](https://marketingplatform.google.com/about/analytics/)**
-  Widely used web and app analytics platform providing acquisition, behavioral, conversion, audience, and journey-related analysis.
-
-* **[Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/)**
-  Enterprise version of Google Analytics providing expanded analytics, integrations, governance, and cross-platform customer analysis capabilities.
-
-* **[Microsoft Clarity](https://clarity.microsoft.com/)**
-  Free digital behavior analytics platform providing session recordings, heatmaps, insights, and behavioral diagnostics for websites.
-
-* **[Hotjar](https://www.hotjar.com/)**
-  Product and experience analytics platform combining heatmaps, session recordings, surveys, feedback, and behavioral insights.
-
-* **[Smartlook](https://www.smartlook.com/)**
-  Digital experience analytics and session replay platform supporting websites and mobile applications with recordings, funnels, events, and behavioral analysis.
-
-* **[Glassbox](https://www.glassbox.com/)**
-  Digital experience platform focused on capturing and analyzing digital interactions across websites and mobile applications.
-
-* **[Contentsquare](https://contentsquare.com/)**
-  Experience analytics platform combining behavioral data, journey analysis, session replay, heatmaps, and experience monitoring.
-
-* **[Decibel](https://www.decibel.com/)**
-  Digital experience analytics technology focused on identifying digital friction, customer behavior, and conversion opportunities.
-
-* **[Quantum Metric](https://www.quantummetric.com/)**
-  Enterprise digital analytics platform combining behavioral, technical, and business signals to analyze and optimize critical customer journeys.
-
-* **[Mouseflow](https://mouseflow.com/)**
-  Digital behavior analytics platform offering session replay, heatmaps, funnels, forms, and journey analysis.
-
-* **[Lucky Orange](https://www.luckyorange.com/)**
-  Conversion and behavioral analytics platform providing session recordings, heatmaps, live views, funnels, and visitor insights.
-
-* **[Crazy Egg](https://www.crazyegg.com/)**
-  Website behavior analytics platform providing heatmaps, recordings, A/B testing, and visitor behavior insights.
-
-* **[Woopra](https://www.woopra.com/)**
-  Customer journey analytics platform providing real-time customer profiles, behavioral analytics, retention analysis, funnels, and journey visualization.
-
-* **[Glassbox](https://www.glassbox.com/)**
-  Enterprise digital experience analytics platform focused on complete digital journey capture, session replay, and experience optimization.
-
-* **[Kissmetrics](https://www.kissmetrics.io/)**
-  Customer and product analytics platform focused on behavioral cohorts, funnels, retention, customer lifecycle, and revenue analytics.
-
-* **[Countly](https://countly.com/)**
-  Product analytics and engagement platform supporting customer journey analysis across web, mobile, IoT, and connected environments. Its server is available as an open-source project under AGPL-3.0 with modified Section 7.
-
-* **[Plausible Analytics](https://plausible.io/)**
-  Privacy-focused web analytics platform providing lightweight website traffic and behavioral analytics.
-
-* **[Matomo](https://matomo.org/)**
-  Open-core web and digital analytics platform offering analytics, funnels, goals, heatmaps, session recordings, and customer behavior analysis.
-
-* **[Snowplow](https://snowplow.io/)**
-  Event-level behavioral data collection and analytics platform designed to provide granular first-party behavioral data for product, marketing, and customer journey analytics.
-
-* **[mParticle](https://www.mparticle.com/)**
-  Customer data platform providing event collection, identity resolution, audience management, and integrations that can feed customer journey analytics systems.
-
-* **[Segment](https://segment.com/)**
-  Customer data infrastructure and CDP platform for collecting, routing, and unifying behavioral events across analytics and marketing systems.
 
 ## Open-Source GitHub Projects
 
